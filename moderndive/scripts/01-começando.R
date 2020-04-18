@@ -1,5 +1,5 @@
 ## ----message=FALSE, warning=FALSE, echo=FALSE---------------------------------
-# Packages needed internally, but not in text.
+# Pacotes necessários internamente, mas não no texto.
 library(scales)
 
 
@@ -15,7 +15,7 @@ library(scales)
 
 ## \vspace{-0.15in}
 
-## **_Learning check_**
+## **_Verificação de Aprendizado_**
 
 ## \vspace{-0.1in}
 
@@ -31,7 +31,7 @@ library(scales)
 
 ## \vspace{-0.15in}
 
-## **_Learning check_**
+## **_Verificação de Aprendizado_**
 
 ## \vspace{-0.1in}
 
@@ -53,7 +53,7 @@ flights
 
 ## \vspace{-0.15in}
 
-## **_Learning check_**
+## **_Verificação de Aprendizado_**
 
 ## \vspace{-0.1in}
 
@@ -69,7 +69,7 @@ glimpse(flights)
 
 ## \vspace{-0.15in}
 
-## **_Learning check_**
+## **_Verificação de Aprendizado_**
 
 ## \vspace{-0.1in}
 
@@ -94,7 +94,7 @@ glimpse(airports)
 
 ## \vspace{-0.15in}
 
-## **_Learning check_**
+## **_Verificação de Aprendizagem_**
 
 ## \vspace{-0.1in}
 
@@ -107,7 +107,7 @@ glimpse(airports)
 
 ## \vspace{-0.15in}
 
-## **_Learning check_**
+## **_Verificação de Aprendizagem_**
 
 ## \vspace{-0.1in}
 
@@ -116,6 +116,6 @@ glimpse(airports)
 
 ## ----echo=FALSE, results="asis"-----------------------------------------------
 if(knitr::is_latex_output()){
-  cat("Solutions to all *Learning checks* can be found online in [Appendix D](https://moderndive.com/D-appendixD.html).")
+  cat("Soluções para todas as *Verificações de Aprendizagem* podem ser encontradas online no [Apêndice D](https://moderndive.com/D-appendixD.html).")
 } 
 
